@@ -1,6 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
+//Testing
 public class CounterTest {
 
 	@Test
